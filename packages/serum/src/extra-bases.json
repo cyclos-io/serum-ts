@@ -1,0 +1,41 @@
+{
+	"/SRM": {
+		"RAY": "Cm4MmknScg7qbKqytb1mM92xgDxv3TNXos4tKbBqTDy7",
+		"YFI": "6xC1ia74NbGZdBkySTw93wdxN4Sh2VfULtXh1utPaJDJ",
+		"FTT": "CDvQqnMrt9rmjAxGGE6GTPUdzLpEhgNuNZ1tWAvPsF3W",
+		"BTC": "HfsedaWauvDaLPm6rwgMc6D5QRmhr8siqGtS6tf2wthU",
+		"SUSHI": "FGYAizUhNEC9GBmj3UyxdiRWmGjR3TfzMq2dznwYnjtH",
+		"TOMO": "7jBrpiq3w2ywzzb54K9SoosZKy7nhuSQK9XrsgSMogFH",
+		"LINK": "FafaYTnhDbLAFsr5qkD2ZwapRxaPrEn99z59UG4zqRmZ",
+		"ETH": "3Dpu2kXk87mF9Ls9caWCHqyBiv9gK3PwQkSvnrHZDrmi"
+	},
+	"/RAY": {
+		"FIDA": "9wH4Krv8Vim3op3JAu5NGZQdGxU8HLGAHZh3K77CemxC",
+		"OXY": "HcVjkXmvA1815Es3pSiibsRaFw8r9Gy7BhyzZX83Zhjx",
+		"MAPS": "7Q4hee42y8ZGguqKmwLhpFNqVTjeVNNBqhx8nt32VF85",
+		"KIN": "Fcxy8qYgs8MZqiLx2pijjay6LHsSUqXW47pwMGysa3i9",
+		"BOP": "6Fcw8aEs7oP7YeuMrM2JgAQUotYxa4WHKHWdLLXssA3R",
+		"SAMO": "AAfgwhNU5LMjHojes1SFmENNjihQBDKdDDT1jog4NV8w",
+		"ALEPH": "4qATPNrEGqE4yFJhXXWtppzJj5evmUaZ5LJspjL6TRoU",
+		"TULIP": "GXde1EjpxVV5fzhHJcZqdLmsA3zmaChGFstZMjWsgKW7",
+		"SLRS": "BkJVRQZ7PjfwevMKsyjjpGZ4j6sBu9j5QTUmKuTLZNrq",
+		"MER": "75yk6hSTuX6n6PoPRxEbXapJbbXj4ynw3gKgub7vRdUf",
+		"MEDIA": "2STXADodK1iZhGh54g3QNrq2Ap4TMwrAzV3Ja14UXut9",
+		"SNY": "HFAsygpAgFq3f9YQ932ptoEsEdBP2ELJSAK5eYAJrg4K",
+		"LIKE": "E4ohEJNB86RkKoveYtQZuDX1GzbxE2xrbdjJ7EddCc5T",
+		"COPE": "6y9WTFJRYoqKXQQZftFxzLdnBYStvqrDmLwTFAUarudt",
+		"ATLAS": "Bn7n597jMxU4KjBPUo3QwJhbqr5145cHy31p6EPwPHwL",
+		"POLIS": "3UP5PuGN6db7NhWf4Q76FLnR4AguVFN14GvgDbDj1u7h"
+	},
+	"/SOL": {
+		"RAY": "C6tp2RVZnxBPFbnAsfTjis8BN9tycESAT4SgDQgbbrsA",
+		"MSOL": "5cLrMai1DsLRYc1Nio9qMTicsWtvzjzZfJPXyAoF4t1Z",
+		"SRM": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+	},
+	"/ETH": {
+		"RAY": "6jx6aoNFbmorwyncVP5V5ESKfuFc9oUYebob1iF6tgN4"
+	},
+	"/WUSDT": {
+		"OXY": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+	}
+}
